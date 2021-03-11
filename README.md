@@ -22,15 +22,10 @@
 3. Out of 604 kickstarter campaigns for plays in GB, the "theater" category is the most successful
 4. The mean for successful US campagins was arounf $5,000, compared to $10,000 for failed US campaigns 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Higher success rates for crowdfunding campaigns were around May-June
+- Higher success rates for crowdfunding campaigns were around May-June
 
-- What can you conclude about the Outcomes based on Goals?
-Successful campaigns in the "plays" subcategory had a goal of around $5,000
+- Successful campaigns in the "plays" subcategory had a goal of around $5,000
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
 ![Parent_Category_Outcomes](path/to/Parent_Category_Outcomes.png)
 
 
