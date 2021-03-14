@@ -8,7 +8,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-**The graph displays will show the Parent Category of "theater" crowdfunded campaigns that were successful, failed or canceled.**
+**This graph displays the Parent Category of "theater" crowdfunded campaigns that were successful, failed or canceled.**
 
 <img width="621" alt="Outcomes_based_on_launch_date" src="https://user-images.githubusercontent.com/77898345/111059487-a29caf80-845b-11eb-86c9-bca95a18962b.png">
 
