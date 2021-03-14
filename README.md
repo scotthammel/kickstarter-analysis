@@ -1,7 +1,7 @@
 # A Deeper Dive into Crowdfunded Campaigns 
 
 ## Overview of Project
-**Analyzing outcomes based on goals (plays) and outcomes based on launch date (theater)**
+**Analyzing Outcomes Based on Goals (plays) and Outcomes Based on Launch Date (theater)**
 
 ### Purpose
 
