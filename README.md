@@ -6,26 +6,14 @@
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
-![Outcomes_based_on_launch_date](path/to/Outcomes_based_on_launch_date.png)
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+### Analysis of Outcomes Based on Launch Date<img width="621" alt="Outcomes_based_on_launch_date" src="https://user-images.githubusercontent.com/77898345/111059487-a29caf80-845b-11eb-86c9-bca95a18962b.png">
 
-### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+
+### Analysis of Outcomes Based on Goals<img width="569" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/77898345/111059501-c233d800-845b-11eb-839a-f40e6682ba3b.png">
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-1. Theater trend: there is a spike of successful campaigns that begin in May-June
-2. Failed US kickstarter campaigns have much higher fundraising goals than successful campaigns
-3. Out of 604 kickstarter campaigns for plays in GB, the "theater" category is the most successful
-4. The mean for successful US campagins was arounf $5,000, compared to $10,000 for failed US campaigns 
-
-- Higher success rates for crowdfunding campaigns were around May-June
-
-- Successful campaigns in the "plays" subcategory had a goal of around $5,000
-
-![Parent_Category_Outcomes](path/to/Parent_Category_Outcomes.png)
 
 
