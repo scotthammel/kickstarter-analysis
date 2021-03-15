@@ -21,13 +21,7 @@
 
 ## Results
 
-- Based on an analysis of the Theater Outcomes by launch date there are two big conclusions. First, out of 1,369 campaigns, around 61% were successful. Campaigns taken place during the months of May, June and July totaled around 35% of all successful theater campaigns. Crowdfunded campaigns in theater or plays were two of the biggest categories based on the dataset.
-
-- What can you conclude about the Outcomes based on Goals?
-
-- Limitations are based on relaying on the dataset provided to give Louise the best recommendation. 
-
-- Another possible graph that can be included would be the comparisions other categories based on their launch date and crowfunding goals in comparison to the "theater" category.
+- Based on an analysis of the Theater Outcomes by launch date there are two big conclusions. First, out of 1,369 campaigns, around 61% were successful. Campaigns taken place during the months of May, June and July totaled around 35% of all successful theater campaigns. Crowdfunded campaigns in theater or plays were two of the biggest categories based on the dataset. Analyzing the Outcomes based on Goals graph will show that the higgest overall avaerage successful campaigns had a crowfunding goal of $1,000-$5,000. This range gave a success rate of about 74% based on the dataset. My advise is to keep the campign goal no higher that range. Limitations are based on relaying on the dataset provided to give Louise the best recommendation. Another possible graph that can be included would be the comparisions other categories based on their launch date and crowfunding goals in comparison to the "theater" category.
 
 
 
