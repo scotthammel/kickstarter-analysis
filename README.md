@@ -10,12 +10,12 @@
 - Excel functions was the main form of data analysis to help Louise with her crowdfunding campaign. The SUM() fuction was used to to gather totals. The COUNTIFS() fuction was used to determine the percentage rates for successful, failed and cancelled play campaigns. Louise also wanted to take a deeper dive into "Edinburgh" campaigns specifically using the VLOOKUP() function.
 
 ### Analysis of Outcomes Based on Launch Date
-**This graph displays the Parent Category of "theater" crowdfunded campaigns that were successful, failed or canceled.**
+**This graph displays the Parent Category of "theater" crowdfunded campaigns that were successful, failed or canceled:**
 
 <img width="621" alt="Outcomes_based_on_launch_date" src="https://user-images.githubusercontent.com/77898345/111059487-a29caf80-845b-11eb-86c9-bca95a18962b.png">
 
 ### Analysis of Outcomes Based on Goals
-**The graph below depicts the percentage that successful and failed campaigns based on their crowdfunding goals.**
+**The graph below depicts the percentage that successful and failed campaigns based on their crowdfunding goals:**
 <img width="569" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/77898345/111059501-c233d800-845b-11eb-839a-f40e6682ba3b.png">
 
 ### Challenges and Difficulties Encountered
