@@ -4,9 +4,10 @@
 **Analyzing Outcomes Based on Goals (plays) and Outcomes Based on Launch Date (theater)**
 
 ### Purpose
-**The purpose of this analysis is to help Louise understand different campaigns in relation to their launch dates and their funding goals.**
+**The purpose of this analysis is to help Louise understand different campaigns in relation to their launch dates and their funding goals.** 
 
-## Analysis and Challenges
+### Analysis
+- Excel functions was the main form of data analysis to help louse. The SUM() fuction was used to to gather totals. The COUNTIFS() fuction was used to determine the percentage rates for successful, failed and cancelled play campaigns. Louise also wanted to take a deeper dive into "Edinburgh" campaigns specifically using the VLOOKUP() function.
 
 ### Analysis of Outcomes Based on Launch Date
 **This graph displays the Parent Category of "theater" crowdfunded campaigns that were successful, failed or canceled.**
