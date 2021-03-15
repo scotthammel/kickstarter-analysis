@@ -4,6 +4,7 @@
 **Analyzing Outcomes Based on Goals (plays) and Outcomes Based on Launch Date (theater)**
 
 ### Purpose
+**The purpose of this analysis is to help Louise understand different campaigns in relation to their launch dates and their funding goals.**
 
 ## Analysis and Challenges
 
@@ -16,17 +17,17 @@
 <img width="569" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/77898345/111059501-c233d800-845b-11eb-839a-f40e6682ba3b.png">
 
 ### Challenges and Difficulties Encountered
+**There were a couple challenges discovered during the analysis. First, understanding the correct Excel functions and where to use it. Second, there was difficulty converting the "deadline" and "launched date" into readable format for Louise. This allowed her to view clearly what date the campaign was created and the date it ended. This analysis will give Louse a better understanding of the average successful campaign length.**
 
 ## Results
 
-- What are two conclusions you can draw about the Theater Outcomes based on Launch Date?
--  Out of 1,369 campaigns, around 61% were successful. Campaigns taken place during the months of May, June and July totaled around 35% of all successful theater campaigns.
+- Based on an analysis of the Theater Outcomes by launch date there are two big conclusions. First, out of 1,369 campaigns, around 61% were successful. Campaigns taken place during the months of May, June and July totaled around 35% of all successful theater campaigns. Crowdfunded campaigns in theater or plays were two of the biggest categories based on the dataset.
 
 - What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
+- Limitations are based on relaying on the dataset provided to give Louise the best recommendation. 
 
-- What are some other possible tables and/or graphs that we could create?
+- Another possible graph that can be included would be the comparisions other categories based on their launch date and crowfunding goals in comparison to the "theater" category.
 
 
 
